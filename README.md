@@ -9,4 +9,4 @@ In this repository, for ExampleTool you will find:</br>
 :white_check_mark: [Source code](https://cis.uab.edu/softcom/mtbd/)</br>
 :white_check_mark: [Original Tool](https://cis.uab.edu/softcom/mtbd/)</br>
 
-This repository was constructed by [Ankush Kumar Singh](https://github.com/asingh21) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
+This repository was constructed by [Ankush Kumar Singh](https://github.com/asingh21) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr.Yu Sun, Dr.Jeff Gray and Dr.Jules White for their help in establishing this repository.
