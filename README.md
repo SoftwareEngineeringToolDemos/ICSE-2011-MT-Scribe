@@ -6,8 +6,8 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [Video of the tool](https://cis.uab.edu/softcom/mtbd/)
 
 In this repository, for ExampleTool you will find:</br>
-:x: Source code</br>
-:x: Original Tool</br>
+:x: Source code (not available)</br>
+:x: Original Tool (not available)</br>
 :x: Virtual Machine containing tool (not available)
 
 This repository was constructed by [Ankush Kumar Singh](https://github.com/asingh21) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Yu Sun, Dr. Jeff Gray and Dr. Jules White for their help in establishing this repository.
